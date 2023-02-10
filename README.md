@@ -1,4 +1,4 @@
-
+PRÁCTICA NO. 7. INDUCTOR Y CAPACITOR
 
 
 
@@ -9,50 +9,51 @@
 7.1. OBJETIVO GENERAL
 
 Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
+
 Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
+
 Verificar las combinaciones serie y paralelo de bobinas y capacitores.
+
 Familiarizarse con el uso de instrumentos de medida.
 
-
-7.3. INFORMACIÓN GENERAL
-
-PRÁCTICA NO. 7. INDUCTOR Y CAPACITOR
-
-
-
-
-
-7.4. MATERIAL Y EQUIPO REQUERIDO
-
-Generador de señales.
-
-Fuente DC.
-
-Osciloscopio.
-
-Protoboard.
-
-Multímetro.
-
-Cables conductores.
-
-Resistencias, bobinas y capacitores.
-
-
-
-
-7.5. MARCO TEÓRICO
+7.2 MARCO TEÓRICO
 
 ![image](https://user-images.githubusercontent.com/116819100/217990468-145a9f97-bc6f-48d9-aea1-82f62d645002.png)
 
+7.3. MATERIAL Y EQUIPO REQUERIDO
+
+- Laboratorio virtual ACDCLab - Proteus
+- Generador de señales
+- Fuente DC.
+- Osciloscopio.
+- Protoboard
+- Multímetro
+- Cables conductores
+- Resistencias, bobinas y capacitores.
+
+7.4. PROCEDIMIENTO (FIGURA 1)
+
+1.- Construya en el protoboard el circuito mostrado
+
+![image](https://user-images.githubusercontent.com/116781677/218004050-b8cac1bd-85f8-4729-b59e-a923c63f95b8.png)
+
+a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+
+b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+![image](https://user-images.githubusercontent.com/116781677/218006605-c9a8bcb7-a364-4315-b336-42bba34c67a1.png)
+![image](https://user-images.githubusercontent.com/116781677/218006753-868b0e73-61e8-4502-9ef3-d133d50436c4.png)
 
 
 
 
+7.5. PROCEDIMIENTO (FIGURA 2)
 
+2.- Construya el circuito mostrado
 
-
-
+![image](https://user-images.githubusercontent.com/116781677/218004828-907ac2af-103c-4b3d-ae2a-a9cb22456979.png)
 
 
 
