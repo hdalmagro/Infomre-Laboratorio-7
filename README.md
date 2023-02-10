@@ -1,3 +1,6 @@
+![título](https://user-images.githubusercontent.com/116821721/218119502-b73d8e97-8935-406d-b3fa-84892f7cb997.jpg)
+
+
 PRÁCTICA NO. 7. INDUCTOR Y CAPACITOR
 
 
